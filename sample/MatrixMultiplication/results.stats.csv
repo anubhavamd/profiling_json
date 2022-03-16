@@ -1,0 +1,2 @@
+"Name","Calls","TotalDurationNs","AverageNs","Percentage"
+"mmmKernel(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u>*, unsigned int, unsigned int) [clone .kd]",1,52012,52012,100.0

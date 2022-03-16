@@ -1,0 +1,2 @@
+"Index","KernelName","gpu-id","queue-id","queue-index","pid","tid","grd","wgr","lds","scr","vgpr","sgpr","fbar","sig","obj","DispatchNs","BeginNs","EndNs","CompleteNs","DurationNs"
+0,"mmmKernel(HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u>*, HIP_vector_type<float, 4u>*, unsigned int, unsigned int) [clone .kd]",0,0,0,4795,4795,256,64,0,0,64,32,0,0x7fc209a4e500,0x7fc200208780,3128738881606045,3128738881639384,3128738881691396,3128738881723044,52012
